@@ -73,3 +73,7 @@ New vehicle designs
 Track generation algorithms
 
 Localization updates
+
+---
+## Friend Links
+[cal.com](https://cal.com/drift-boss)
