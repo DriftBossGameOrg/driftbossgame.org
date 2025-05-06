@@ -81,3 +81,4 @@ Localization updates
 [linktr](https://linktr.ee/driftbossgameorg)
 [gitbook](https://driftbosss-organization.gitbook.io/driftbossgame.org#drift-boss-the-neuroscience-of-flow-state-in-minimalist-racing)
 [creemio](https://www.creem.io/bip/driftboss)
+[substack](https://substack.com/@driftbossgameorg/notes)
