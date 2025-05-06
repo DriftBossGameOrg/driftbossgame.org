@@ -79,3 +79,4 @@ Localization updates
 [cal.com](https://cal.com/drift-boss)
 [liteEverNote](https://share.evernote.com/note/f0d88b2d-f712-8703-c429-d7ea88aeba52)
 [linktr](https://linktr.ee/driftbossgameorg)
+[gitbook](https://driftbosss-organization.gitbook.io/driftbossgame.org#drift-boss-the-neuroscience-of-flow-state-in-minimalist-racing)
