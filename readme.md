@@ -1,6 +1,6 @@
 # Drift Boss: Ultimate Free Online Drifting Game  
 
-![Drift Boss Gameplay](https://via.placeholder.com/800x400.png?text=Drift+Boss+Gameplay+Preview)  
+![Drift Boss Gameplay](https://static.driftbossgame.org/games/41e94a8d-b418-4987-88cc-61e5e78b4722.avif)  
 
 ## 🌟 Overview  
 **Drift Boss** is a browser-based drifting game where players navigate an endless floating road using intuitive one-touch controls. Released in December 2019, this minimalist yet challenging arcade-style game tests reflexes and precision as you avoid falling into the abyss while collecting coins to unlock vehicles like trucks, taxis, and police cars. Compatible with both desktop and mobile browsers, it combines retro aesthetics with modern gameplay mechanics:cite[1].  
