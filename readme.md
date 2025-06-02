@@ -4,7 +4,7 @@
 
 
 ## 🌟 Overview  
-**Drift Boss** is a browser-based drifting game where players navigate an endless floating road using intuitive one-touch controls. Released in December 2019, this minimalist yet challenging arcade-style game tests reflexes and precision as you avoid falling into the abyss while collecting coins to unlock vehicles like trucks, taxis, and police cars. Compatible with both desktop and mobile browsers, it combines retro aesthetics with modern gameplay mechanics:cite[1].  
+**Drift Boss** is a browser-based drifting game where players navigate an endless floating road using intuitive one-touch controls. Released in December 2019, this minimalist yet challenging arcade-style game tests reflexes and precision as you avoid falling into the abyss while collecting coins to unlock vehicles like trucks, taxis, and police cars. Compatible with both desktop and mobile browsers, it combines retro aesthetics with modern gameplay mechanics.  
 
 Play Now: [DriftBoss](http://driftbossgame.org/)
 
@@ -20,7 +20,7 @@ Play Now: [DriftBoss](http://driftbossgame.org/)
 
 ### Objective  
 - Keep your car on the twisting road as long as possible. Falling off ends the game!  
-- Collect **coins** scattered along the track to unlock new vehicles and boosters:cite[1].  
+- Collect **coins** scattered along the track to unlock new vehicles and boosters.  
 
 ### Pro Tips  
 - **Anticipate turns**: Watch for road direction changes to adjust timing.  
@@ -30,11 +30,11 @@ Play Now: [DriftBoss](http://driftbossgame.org/)
 ---  
 
 ## 🚘 Key Features  
-1. **One-Button Mechanics**: Simple controls suitable for all ages:cite[1].  
-2. **Unlockable Vehicles**: Earn coins to upgrade to trucks, taxis, and specialty cars:cite[1].  
-3. **Daily Rewards**: Log in daily for bonus coins and boosters:cite[1].  
-4. **Dynamic Tracks**: Procedurally generated roads with increasing difficulty:cite[1].  
-5. **Cross-Platform Play**: Seamless experience on desktop and mobile browsers:cite[1].  
+1. **One-Button Mechanics**: Simple controls suitable for all ages.  
+2. **Unlockable Vehicles**: Earn coins to upgrade to trucks, taxis, and specialty cars.  
+3. **Daily Rewards**: Log in daily for bonus coins and boosters.  
+4. **Dynamic Tracks**: Procedurally generated roads with increasing difficulty.  
+5. **Cross-Platform Play**: Seamless experience on desktop and mobile browsers.  
 6. **Retro Arcade Aesthetics**: Vibrant visuals reminiscent of 80s arcade games.  
 7. **Sound Design**: Immersive drifting sound effects and background music.  
 8. **Leaderboards**: Compete globally for high scores.  
@@ -43,11 +43,11 @@ Play Now: [DriftBoss](http://driftbossgame.org/)
 
 ## ❓ Frequently Asked Questions (FAQ)  
 1. **Is Drift Boss free to play?**  
-   Yes! Play directly in your browser at [driftbossgame.org](http://driftbossgame.org/):cite[1].  
+   Yes! Play directly in your browser at [driftbossgame.org](http://driftbossgame.org/).  
 2. **How do I unlock new cars?**  
-   Collect coins during runs or spin the reward wheel for random unlocks:cite[1].  
+   Collect coins during runs or spin the reward wheel for random unlocks.  
 3. **What does Car Insurance do?**  
-   Grants an extra life to continue after falling:cite[1].  
+   Grants an extra life to continue after falling.  
 4. **Can I play offline?**  
    No—an internet connection is required.  
 5. **Are there in-game purchases?**  
@@ -55,11 +55,11 @@ Play Now: [DriftBoss](http://driftbossgame.org/)
 6. **Tips for high scores?**  
    Focus on smooth turns and mid-road positioning.  
 7. **Is there a mobile app?**  
-   No APK is officially available; play via mobile browsers:cite[1].  
+   No APK is officially available; play via mobile browsers.  
 8. **How to reset progress?**  
    Clear browser cache or use incognito mode.  
 9. **What platforms support Drift Boss?**  
-   Web browsers (Chrome, Firefox, Safari) on desktop and mobile:cite[1].  
+   Web browsers (Chrome, Firefox, Safari) on desktop and mobile.  
 10. **Similar games?**  
     Try *Moto X3M* or *Drift Hunters* for more adrenaline!  
 
